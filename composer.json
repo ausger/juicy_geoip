@@ -4,6 +4,6 @@
   "license":"OSL-3.0",
   "description":"Connects MaxMind GeoIP DB to Magento",
   "require":{
-    "magento-hackathon/magento-composer-installer":"*"
+    "magento-hackathon/magento-composer-installer":"~3.0"
   }
 }
