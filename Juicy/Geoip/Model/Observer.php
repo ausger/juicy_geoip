@@ -20,9 +20,4 @@ class Juicy_Geoip_Model_Observer
             }
         }
     }
-
-    public function controllerFrontInitBefore($observer)
-    {
-        Mage::getModel('geoip/country');
-    }
 }

@@ -1,7 +1,5 @@
-Juicy/*                                                           app/code/local/Juicy
-Data/*							                                lib/Juicy/Geoip/Data
-design/adminhtml/default/default/layout/juicy/geoip.xml         design/adminhtml/default/default/layout/juicy/geoip.xml
-design/adminhtml/default/default/template/juicy/*               design/adminhtml/default/default/template/juicy
-geoip.inc 	 					                                lib/Juicy/Geoip/geoip.inc
-Juicy_Geoip.xml                                                 app/etc/modules/Juicy_Geoip.xml
-array.phtml						                                app/design/adminhtml/default/default/template/juicy/geoip/system/config/form/field/array.phtml
+Juicy/*                            app/code/local/Juicy
+Data/geoip.dat					   lib/Juicy/Geoip/Data/geoip.dat
+geoip.inc 	 					   lib/Juicy/Geoip/geoip.inc
+Juicy_Geoip.xml                    app/etc/modules/Juicy_Geoip.xml
+array.phtml						   app/design/adminhtml/default/default/template/juicy/geoip/system/config/form/field/array.phtml
