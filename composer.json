@@ -1,0 +1,9 @@
+{
+  "name":"juicy/geoip",
+  "type":"magento-module",
+  "license":"OSL-3.0",
+  "description":"Connects MaxMind GeoIP DB to Magento",
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
